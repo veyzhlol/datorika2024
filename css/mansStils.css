@@ -1,0 +1,28 @@
+
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+
+h2 {
+	color:black
+}
+
+table, th, td {
+  border: 1px solid black;
+   border-collapse: collapse;
+}
+th {
+  text-align: left;
+}
+ body {
+  background-image: url('../images/image1.avif');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
